@@ -13,5 +13,9 @@
 
 <p> New user? <a href="register.php">Register</a> </p>
 
+
+
+
+<!-- added by eric -->
 </body>
 </html>
